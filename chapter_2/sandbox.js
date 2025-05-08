@@ -19,7 +19,7 @@ console.log(score);
 // strings
 console.log('hello, world');
 
-let email = 'email@academic.rrc.ca';
+// let email = 'email@academic.rrc.ca';
 console.log(email);
 
 // string concatenation
@@ -40,8 +40,8 @@ console.log(fullName.toUpperCase());
 // let result = fullName.toLowerCase();
 // console.log(result, fullName);
 
-let index = email.indexOf('@');
-console.log(index);
+// let index = email.indexOf('@');
+// console.log(index);
 
 // common string methods
 // let result2 = email.lastIndexOf('a');
